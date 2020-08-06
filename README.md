@@ -6,6 +6,5 @@ I’m an aspiring developer currently wading my way through
                 for beautiful UI and utility-first CSS. Always learning and trying to create great products
                 
 
-
-You can get in touch via [Twitter](https://twitter.com/mrpbennett) if you like.  
+![Twitter Follow](https://img.shields.io/twitter/follow/mrpbennett?style=for-the-badge)
 
