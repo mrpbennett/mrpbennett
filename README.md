@@ -8,4 +8,5 @@ You can find me here:
 
 - [Linkedin](https://www.linkedin.com/in/paulandrewbennett/)
 - [Twitter](https://twitter.com/mrpbennett)
+- [Strava](https://www.strava.com/athletes/866413)
 
