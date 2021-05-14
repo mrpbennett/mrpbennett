@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work at [PulsePoint](https://pulsepoint.com) as a Solutions Engineering. I enjoy using Python alot! I often keep a [TIL log](https://github.com/mrpbennett/TIL) of what I learn about on the job or in personal projects...
+I work at [PulsePoint](https://pulsepoint.com) as a Solutions Engineer. I enjoy using Python alot! I often keep a [TIL log](https://github.com/mrpbennett/TIL) of what I learn about on the job or in personal projects...
 
 I also love to race bikes 🚴🏼‍♂️💨
 
