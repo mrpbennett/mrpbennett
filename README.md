@@ -31,7 +31,6 @@ More information can be found on my [personal website](https://mrpbennett.com) i
 
 ### Social
 
-[![Twitter Badge](https://img.shields.io/badge/mrpbennett-0A66C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mrpbennett)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulandrewbennett)
 [![StackOverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10129053/mrpbennett)
 [![Strava](https://img.shields.io/badge/strava-FC4C02.svg?&style=for-the-badge&logo=strava&logoColor=white)](https://www.linkedin.com/in/paulandrewbennett)
