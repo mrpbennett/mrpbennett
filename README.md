@@ -18,6 +18,7 @@ More information can be found on my [personal website](https://mrpbennett.com) i
 ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
 
