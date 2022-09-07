@@ -1,6 +1,6 @@
 # 👋
 
-I am currently working at [Pulsepoint](https://pulsepoint.com) in the solutions engineering team. I enjoy tinkering with Python and JavaScript building tools for internal teams making their lives easier. I can also be found sometimes digging around in Presto or MS SQL databases for hidden debugging nuggets or making mincemeat out of an Excel pivot tables.
+I am currently working at [Pulsepoint](https://pulsepoint.com) as a Senior Solutions Architect. I enjoy tinkering with Python and JavaScript building tools for internal teams making their lives easier. I can also be found sometimes digging around in Presto or MS SQL databases for hidden debugging nuggets or making mincemeat out of an Excel pivot tables.
 
 I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett/TIL) repo, I often find myself looking through this as a refresher.
 
