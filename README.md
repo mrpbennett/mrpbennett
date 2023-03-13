@@ -4,14 +4,6 @@ I am currently working at [Pulsepoint](https://pulsepoint.com) as a Senior Solut
 
 I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett/TIL) repo, I often find myself looking through this as a refresher.
 
-### Currently learning
-
-- Vim / NeoVim
-- Docker
-- Kubernetes
-- Linux
-- Go lang
-
 ### Social
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulandrewbennett)
