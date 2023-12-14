@@ -1,6 +1,6 @@
 # 👋
 
-I am currently working at [Pulsepoint](https://pulsepoint.com) as a Senior Solutions Engineer.
+I am currently working at [Pulsepoint](https://pulsepoint.com) as a Lead Solutions Engineer.
 
 I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett/TIL) repo, I often find myself looking through this as a refresher.
 
