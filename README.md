@@ -11,6 +11,13 @@ I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett
 3. JavaScript
 4. Java
 
+### Currently learning
+
+- Java via Udemy
+- Homelab enviroment
+  - Kubernetes
+  - Infrastructure as Code 
+
 
 ### Social
 
