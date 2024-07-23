@@ -13,10 +13,11 @@ I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett
 
 ### Currently learning
 
-- Java via Udemy
-- Homelab enviroment
+- [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/?couponCode=ACCAGE0923) via Udemy
+- Homelab environment
   - Kubernetes
-  - Infrastructure as Code 
+  - Infrastructure as Code
+  - Postgres Database Administration
 
 
 ### Social
