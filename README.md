@@ -1,6 +1,6 @@
 # 👋
 
-Currently a remote Lead Solutions Engineer at [Pulsepoint](https://pulsepoint.com) obsessed with homelabs and DevOps. Coffee-fueled days navigating YAML mazes, automating and innovating in a wife approved tech playground.
+Currently a remote Lead Solutions Engineer at [Pulsepoint](https://pulsepoint.com) obsessed with homelabs, Database Engineering & DevOps. Coffee-fueled days navigating YAML mazes, automating and innovating in a wife-approved tech playground.
 
 I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett/TIL) repo, I often find myself looking through this as a refresher.
 
