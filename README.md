@@ -1,6 +1,6 @@
 # 👋
 
-Currently a remote Lead Solutions Engineer at [Pulsepoint](https://pulsepoint.com) obsessed with homelabs, Database Engineering & DevOps. Coffee-fueled days navigating YAML mazes, automating and innovating in a wife-approved tech playground.
+Currently a remote Lead Solutions Engineer at [Pulsepoint](https://pulsepoint.com) obsessed with Vim, Python, SQL and tinkering in the homelab.
 
 I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett/TIL) repo, I often find myself looking through this as a refresher.
 
@@ -8,16 +8,11 @@ I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett
 
 1. Python
 2. SQL
-3. JavaScript
-4. Java
+3. Go
+4. Ruby
+5. Javscript
 
-### Currently learning
-
-- [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/?couponCode=ACCAGE0923) via Udemy
-- Homelab environment
-  - Kubernetes
-  - Infrastructure as Code
-  - Postgres Database Administration
+Currently attempting to learn Vim Motions and LazyVim to a component level.
 
 
 ### Social
