@@ -8,7 +8,7 @@ I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett
 
 1. Python
 2. SQL
-3. Go
+3. Kotlin
 4. Ruby
 5. Javscript
 
