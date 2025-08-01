@@ -22,3 +22,7 @@ Currently attempting to learn Vim Motions and LazyVim to a component level.
 
 ### Support
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/mrpbennett)
+
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+</h3>
