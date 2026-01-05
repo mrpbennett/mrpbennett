@@ -6,7 +6,7 @@ Hey :wave:, I'm Paul a Software Writer based in Dorest. I enjoy mastering Vim, t
 
 - **Editor**: [LazyVim](https://www.lazyvim.org/) & [DataGrip](https://www.jetbrains.com/datagrip/) currently giving [Zed](https://zed.dev) a try...
 - **Keyboard**: [ZSA Voyager](https://www.zsa.io/voyager) with ambient switches
-- **OS**: [Omarchy](https://omarchy.org/)
+- **OS**: MacOS
 
 ### Social
 
