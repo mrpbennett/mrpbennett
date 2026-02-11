@@ -1,6 +1,6 @@
 ## A bit about me..
 
-Hey :wave:, I'm Paul a Software Writer based in Dorest. I enjoy mastering Vim, tinkering with my homelab using Kubernetes. Main languages of choice arePython and SQL, whilst trying to learn Go. Currently a Lead Solution Engineer in AdTech. I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett/TIL) repo, I often find myself looking through this as a refresher.
+Hey :wave:, I'm Paul a Software Writer based in Dorest. I enjoy mastering Vim, tinkering with my homelab using Kubernetes. Main languages of choice are Python and SQL, whilst trying to learn Go. Currently a Lead Solution Engineer in AdTech. I like to keep track of things I learn in my [TIL](https://github.com/mrpbennett/TIL) repo, I often find myself looking through this as a refresher.
 
 ### Nerd corner
 
