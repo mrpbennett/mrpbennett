@@ -5,6 +5,7 @@ Hey :wave:, I'm Paul a Software Writer based in Dorest. I enjoy mastering Vim, t
 ### Nerd corner
 
 - **Editor**: [LazyVim](https://www.lazyvim.org/) & [DataGrip](https://www.jetbrains.com/datagrip/)
+- **Terminal**: [Ghostty](https://ghostty.org/)
 - **Multiplexer**: [Zellij](https://zellij.dev)
 - **Keyboard**: [ZSA Voyager](https://www.zsa.io/voyager) with ambient switches
 - **OS**: MacOS
@@ -16,5 +17,5 @@ Hey :wave:, I'm Paul a Software Writer based in Dorest. I enjoy mastering Vim, t
 [![X](https://img.shields.io/badge/mrpbennett-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mrpbennett)
 
 <h3 align="center">
-	<img src="https://github.com/bashbunni/bashbunni/raw/main/dancing-gopher.gif"/>
+	<img src="https://github.com/bashbunni/bashbunni/raw/main/dancing-gopher.gif" width="100"/>
 </h3>
