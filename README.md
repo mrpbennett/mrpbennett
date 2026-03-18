@@ -14,7 +14,7 @@ Hey :wave:, I'm Paul a Software Writer based in Dorest who loves the terminal. I
 
 - [Bucky](https://github.com/mrpbennett/bucky) - A beautiful TUI for managing S3/SFTP/GCP storage
 - [Melon](https://github.com/mrpbennett/melon) - An alternative to the past fig.io
-- [fastapi.nvim](https://github.com/mrpbennett/fastapi.nvim) - Port of the official FastAPI plugin for VSC
+- [nimbleapi.nvim](https://github.com/mrpbennett/nimbleapi.nvim) - A API route explorer and tester for neovim
 - [BooBerry Themes](https://github.com/booberrytheme) - Ports from the popular Helix theme
 
 #### :scroll: Last Blog Posts
