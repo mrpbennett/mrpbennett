@@ -30,5 +30,5 @@ Hey :wave:, I'm Paul a Software Writer based in Dorest who loves the terminal. I
 [![X](https://img.shields.io/badge/mrpbennett-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mrpbennett)
 
 <h3 align="center">
-	<img src="https://github.com/bashbunni/bashbunni/raw/main/dancing-gopher.gif" width="100"/>
+	<img src="https://github.com/mrpbennett/home-ops/blob/main/misc/codefriends.png?raw=true" width="300"/>
 </h3>
