@@ -6,7 +6,7 @@ Hey :wave:, I'm Paul a Software Writer based in Dorest who loves the terminal. I
 
 - **Editor**: [LazyVim](https://www.lazyvim.org/) & [DataGrip](https://www.jetbrains.com/datagrip/)
 - **Terminal**: [Ghostty](https://ghostty.org/)
-- **Multiplexer**: [Zellij](https://zellij.dev)
+- **Multiplexer**: [tmux](https://github.com/tmux/tmux/wiki)
 - **Keyboard**: [ZSA Voyager](https://www.zsa.io/voyager) with ambient switches
 - **OS**: MacOS
 
