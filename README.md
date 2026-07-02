@@ -13,7 +13,6 @@ Hey :wave:, I'm Paul a Software Writer based in Dorest who loves the terminal. I
 #### :construction_worker: Current Projects
 
 - [Bucky](https://github.com/mrpbennett/bucky) - A beautiful TUI for managing S3/SFTP/GCP storage
-- [Melon](https://github.com/mrpbennett/melon) - An alternative to the past fig.io
 - [nimbleapi.nvim](https://github.com/mrpbennett/nimbleapi.nvim) - A API route explorer and tester for neovim
 - [BooBerry Themes](https://github.com/booberrytheme) - Ports from the popular Helix theme
 
