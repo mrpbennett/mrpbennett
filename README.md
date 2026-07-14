@@ -1,6 +1,13 @@
 ## A bit about me..
 
-Hey :wave:, I'm Paul a Software Writer based in Dorest who loves the terminal. I enjoy tinkering with my homelab using Kubernetes. Main languages of choice are Python and SQL, whilst trying to learn Go. Currently a Lead Solution Engineer in AdTech.
+Hey 👋, I'm Paul, a Lead Solutions Engineer in AdTech based in Dorset
+who loves the terminal. By day I build production Python/FastAPI
+services on top of Trino, PostgreSQL, and Redis, and ship Next.js/React
+frontends. By night I'm tinkering with a self-managed Kubernetes homelab
+wired up with ArgoCD, and Renovate.
+
+Main languages of choice are Python, SQL, and Go, with a bit of Lua
+for Neovim plugins when the mood strikes.
 
 #### :nerd_face: Nerd corner
 
