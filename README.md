@@ -13,12 +13,12 @@ for Neovim plugins when the mood strikes.
 
 - **Editor**: [LazyVim](https://www.lazyvim.org/) & [DataGrip](https://www.jetbrains.com/datagrip/)
 - **Terminal**: [Ghostty](https://ghostty.org/)
-- **Multiplexer**: [tmux](https://github.com/tmux/tmux/wiki)
+- **Multiplexer**: [tmux](https://github.com/tmux/tmux/wiki) / [herdr](https://herdr.dev/)
 - **Keyboard**: [ZSA Voyager](https://www.zsa.io/voyager) with ambient switches
-- **OS**: MacOS
+- **OS**: MacOS / [Omarchy](https://omarchy.org/)
 
 #### :construction_worker: Current Projects
-- [OmarchySesh](https://github.com/mrpbenett/omarchy-sesh) - Think tmux but for your Omarchy panes and windows.
+- [OmarchySesh](https://github.com/mrpbennett/omarchy-sesh) - Think tmux but for your Omarchy panes and windows.
 - [Bucky](https://github.com/mrpbennett/bucky) - A beautiful TUI for managing S3/SFTP/GCP storage
 - [nimbleapi.nvim](https://github.com/mrpbennett/nimbleapi.nvim) - A API route explorer and tester for neovim
 - [BooBerry Themes](https://github.com/booberrytheme) - Ports from the popular Helix theme
