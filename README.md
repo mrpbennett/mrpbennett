@@ -18,7 +18,7 @@ for Neovim plugins when the mood strikes.
 - **OS**: MacOS / [Omarchy](https://omarchy.org/)
 
 #### :construction_worker: Current Projects
-- [OmarchySesh](https://github.com/mrpbennett/omarchy-sesh) - Think tmux but for your Omarchy panes and windows.
+- [Orbit](https://github.com/mrpbennett/orbit.nvim) - Another DB IDE for nvim
 - [Bucky](https://github.com/mrpbennett/bucky) - A beautiful TUI for managing S3/SFTP/GCP storage
 - [nimbleapi.nvim](https://github.com/mrpbennett/nimbleapi.nvim) - A API route explorer and tester for neovim
 - [BooBerry Themes](https://github.com/booberrytheme) - Ports from the popular Helix theme
