@@ -34,7 +34,3 @@ for Neovim plugins when the mood strikes.
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulandrewbennett)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p@mrpbennett.dev)
 [![X](https://img.shields.io/badge/mrpbennett-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mrpbennett)
-
-<h3 align="center">
-	<img src="https://github.com/mrpbennett/home-ops/blob/main/misc/codefriends.png?raw=true" width="300"/>
-</h3>
