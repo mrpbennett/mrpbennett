@@ -32,5 +32,5 @@ for Neovim plugins when the mood strikes.
 #### :mailbox: Social
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulandrewbennett)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p@mrpbennett.dev)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbennett.uk@outlook.com)
 [![X](https://img.shields.io/badge/mrpbennett-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mrpbennett)
