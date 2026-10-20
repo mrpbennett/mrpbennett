@@ -13,20 +13,18 @@ for Neovim plugins when the mood strikes.
 
 - **Editor**: [LazyVim](https://www.lazyvim.org/) & [DataGrip](https://www.jetbrains.com/datagrip/)
 - **Terminal**: [Ghostty](https://ghostty.org/)
-- **Multiplexer**: [tmux](https://github.com/tmux/tmux/wiki) / [herdr](https://herdr.dev/)
+- **Multiplexer**: [herdr](https://herdr.dev/)
 - **Keyboard**: [ZSA Voyager](https://www.zsa.io/voyager) with ambient switches
 - **OS**: MacOS / [Omarchy](https://omarchy.org/)
 
 #### :construction_worker: Current Projects
 - [Orbit](https://github.com/mrpbennett/orbit.nvim) - Another DB IDE for nvim
 - [Bucky](https://github.com/mrpbennett/bucky) - A beautiful TUI for managing S3/SFTP/GCP storage
-- [nimbleapi.nvim](https://github.com/mrpbennett/nimbleapi.nvim) - A API route explorer and tester for neovim
-- [BooBerry Themes](https://github.com/booberrytheme) - Ports from the popular Helix theme
 
 #### :scroll: Last Blog Posts
 
-- [My list of my favourite CLI tools](https://www.mrpbennett.dev/2026/03/clitools)
-- [Zellij vs Tmux: My Terminal Multiplexer Journey](https://www.mrpbennett.dev/2026/02/tmux-zellij)
+- [My Terminal Setup - 2026](https://www.mrpbennett.dev/blog/2026/10/terminal-setup)
+- [Managing Talos machine config with patches, mise and hunk](https://www.mrpbennett.dev/blog/2026/10/talos-machine-config-with-mise)
 - [Managing Kubernetes Secrets the GitOps Way with Vault and VSO](https://www.mrpbennett.dev/kubernetes-secrets-vault-vso)
   
 #### :mailbox: Social
