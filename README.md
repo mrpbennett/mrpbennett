@@ -1,13 +1,8 @@
 ## A bit about me..
 
-Hey 👋, I'm Paul, a Lead Solutions Engineer in AdTech based in Dorset
-who loves the terminal. By day I build production Python/FastAPI
-services on top of Trino, PostgreSQL, and Redis, and ship Next.js/React
-frontends. By night I'm tinkering with a self-managed Kubernetes homelab
-wired up with ArgoCD, and Renovate.
+Hey 👋, I’m Paul, a Lead Solutions Engineer in AdTech based in Dorset who lives in the terminal. By day I build production Python & Go services to help my team be more productive. By night I’m tinkering with a self-managed Kubernetes homelab wired up with Talos, ArgoCD and Renovate, which doubles as my practice ground while I train for Google’s Associate Cloud Engineer and work toward my CKA.
 
-Main languages of choice are Python, SQL, and Go, with a bit of Lua
-for Neovim plugins when the mood strikes.
+Main languages of choice are Python, SQL, and Go and of course Yaml.
 
 #### :nerd_face: Nerd corner
 
