@@ -9,7 +9,7 @@ Main languages of choice are Python, SQL, Go and of course Yaml.
 - **Editor**: [LazyVim](https://www.lazyvim.org/) & [DataGrip](https://www.jetbrains.com/datagrip/)
 - **Terminal**: [Ghostty](https://ghostty.org/)
 - **Multiplexer**: [herdr](https://herdr.dev/)
-- **Keyboard**: [ZSA Voyager](https://www.zsa.io/voyager) with ambient switches
+- **Keyboard**: [ZSA Voyager](https://www.zsa.io/voyager) with ambient switches and [NuPhy Halo65 V2](https://nuphy.com/products/nuphy-halo65-v2?variant=41414603604077)
 - **OS**: MacOS / [Omarchy](https://omarchy.org/)
 
 #### :construction_worker: Current Projects
